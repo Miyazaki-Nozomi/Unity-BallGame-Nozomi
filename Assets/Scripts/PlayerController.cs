@@ -41,5 +41,6 @@ public class PlayerController : MonoBehaviour
             MtekiOn();
             Invoke(nameof(MutekiOff), 3.0f);
         }
+        
     }
 }
